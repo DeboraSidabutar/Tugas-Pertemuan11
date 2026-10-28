@@ -1,4 +1,5 @@
-![Uploading Screenshot (315).png…]()
+<img width="1366" height="768" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/5d650cf2-0638-4a9f-8700-659bfb67a5b7" />
+
 # Pertemuan 11 – Web UI Automation Testing
 
 ## Deskripsi
