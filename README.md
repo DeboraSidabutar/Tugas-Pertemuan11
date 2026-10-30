@@ -1,4 +1,6 @@
-<img width="1366" height="768" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/5d650cf2-0638-4a9f-8700-659bfb67a5b7" />
+Hasilnya
+<img width="1366" height="768" alt="Screenshot (318)" src="https://github.com/user-attachments/assets/bcd28a70-5042-41fb-842c-bf833959fe74" />
+
 
 # Pertemuan 11 – Web UI Automation Testing
 
